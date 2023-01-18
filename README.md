@@ -7,4 +7,4 @@
 
 * [insert.sql](https://github.com/polognikita/SQLProject_vuzdatabase/blob/main/insert.sql): запросы на заполнение БД данными
 
-* [ER_Diagramm](https://github.com/polognikita/SQLProject_vuzdatabase/blob/main/ER_Diagramm.jpg): ER-диаграмма базы данных
+* [ER_Diagramm](https://github.com/polognikita/Database_VUZ/blob/main/ERD.png): ER-диаграмма базы данных
